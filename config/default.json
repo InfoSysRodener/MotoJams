@@ -1,0 +1,9 @@
+{
+    "name": "jams",
+    "DB":{
+      "NAME": "jams"
+    },
+    "JWT":{},
+    "PORT":7000
+  }
+  
